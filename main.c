@@ -7,5 +7,7 @@ int main()
   printf("Enter two integers:\n");
   scanf("%d\n%d", &one, &two);
   printf("Sum is: %d\nProduct is: %d\n", one + two, one * two);
+  printf("Sum is: %d\nDivision is: %d\n", one + two, one / two);
 	return 0;
 }
+
