@@ -1,3 +1,4 @@
+//This is an educational program
 #include <stdio.h>
 
 int main()
